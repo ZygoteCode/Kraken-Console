@@ -128,10 +128,9 @@ Public Class CommandExecutor
         ElseIf cmdName = "info" Then
             DataAdder.AddData("Infos about Kraken Console:" + vbNewLine + vbNewLine +
                               "Product name: Kraken Console" + vbNewLine +
-                              "Author: ZioJoJo" + vbNewLine +
+                              "Author: ZygoteCode" + vbNewLine +
                               "Your console ID: " + HWUtils.GetCpuId() + vbNewLine +
-                              "Discord: zLexis#8595" + vbNewLine + vbNewLine +
-                              "Copyright 2020, ZioJoJo. Do not distribute.")
+                              "Copyright 2025, ZygoteCode. Do not distribute.")
         ElseIf cmdName = "process" Then
             Try
                 Dim use As String = arguments(zero.GetValue())
