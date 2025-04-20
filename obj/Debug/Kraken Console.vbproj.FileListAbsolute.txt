@@ -1,0 +1,17 @@
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\Kraken Console\Project\Kraken Console\bin\Debug\Kraken Console.exe.config
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\Kraken Console\Project\Kraken Console\bin\Debug\Kraken Console.exe
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\Kraken Console\Project\Kraken Console\bin\Debug\Kraken Console.pdb
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\Kraken Console\Project\Kraken Console\bin\Debug\Kraken Console.xml
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\Kraken Console\Project\Kraken Console\obj\Debug\Kraken_Console.KrakenConsole.resources
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\Kraken Console\Project\Kraken Console\obj\Debug\Kraken_Console.Resources.resources
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\Kraken Console\Project\Kraken Console\obj\Debug\Kraken Console.vbproj.GenerateResource.cache
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\Kraken Console\Project\Kraken Console\obj\Debug\Kraken Console.exe
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\Kraken Console\Project\Kraken Console\obj\Debug\Kraken Console.xml
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\Kraken Console\Project\Kraken Console\obj\Debug\Kraken Console.pdb
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\Kraken Console\Project\Kraken Console\obj\Debug\Interop.MSScriptControl.dll
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\Kraken Console\Project\Kraken Console\obj\Debug\Kraken Console.vbproj.ResolveComReference.cache
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\Kraken Console\Project\Kraken Console\obj\Debug\Kraken_Console.HTMLDebug.resources
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\Kraken Console\Project\Kraken Console\obj\Debug\Kraken_Console.ASM8086.resources
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\Kraken Console\Project\Kraken Console\bin\Debug\LuaInterface.dll
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\Kraken Console\Project\Kraken Console\obj\Debug\Kraken Console.vbproj.CopyComplete
+C:\Users\ZygoteCode\Desktop\Computer\Developing\Progetti\Kraken Console\Project\Kraken Console\bin\Debug\KopiLua.dll

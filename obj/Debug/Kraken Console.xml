@@ -1,0 +1,43 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Kraken Console
+</name>
+</assembly>
+<members>
+<member name="T:Kraken_Console.My.Resources.Resources">
+<summary>
+  Classe di risorse fortemente tipizzata per la ricerca di stringhe localizzate e così via.
+</summary>
+</member>
+<member name="P:Kraken_Console.My.Resources.Resources.ResourceManager">
+<summary>
+  Restituisce l'istanza di ResourceManager nella cache utilizzata da questa classe.
+</summary>
+</member>
+<member name="P:Kraken_Console.My.Resources.Resources.Culture">
+<summary>
+  Esegue l'override della proprietà CurrentUICulture del thread corrente per tutte le
+  ricerche di risorse eseguite utilizzando questa classe di risorse fortemente tipizzata.
+</summary>
+</member>
+<member name="P:Kraken_Console.My.Resources.Resources.Bypass_Paladins">
+<summary>
+  Cerca una stringa localizzata simile a @echo off
+color a
+cd/
+cd Program Files (x86)
+cd steam
+cd steamapps
+cd common
+cd Paladins
+cd Binaries
+cd Win32
+ 
+ 
+Paladins.exe -homedir=paladinslive -EACALT -seekfreeloadingpcconsole -allow64 -LANGUAGE=ITA -EACALT -allow64 -pid=402 -eac-nop-loaded.
+</summary>
+</member>
+</members>
+</doc>
